@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# yt_dlp <video_url> -x --audio-format mp3 --embed-thumbnail
+
 # This makes displaying colors ALOT easier
 # it gets really messy just using the codes 
 RESET='\033[0m'
